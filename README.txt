@@ -1,3 +1,2 @@
-#Overview
 The purpose of this assignment is to strengthen your understanding towards implementing and speeding up a computation intensive problem using distributed system concept.
 In this assignment, your team is to design and implement a distributed brute force MD5 password searching system. MD5 algorithm is a widely used cryptographic hash function producing a 128-bit hash. An MD5 hash is typically expressed as a 32 digits hexadecimal number. For this assignment, few MD5 hash values will be generated using 3 to 6 characters passwords which the character is limited from the list of ASCII characters having the value between 32 and 126. However, this still produce a search space of 7.35x1011 different combinations
